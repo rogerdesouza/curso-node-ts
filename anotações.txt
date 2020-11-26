@@ -1,0 +1,26 @@
+Já estão instalados:
+
+sucrase
+eslint
+prettier
+typescript
+nodemon
+
+
+Devo instalar:
+
+express
+cors
+mongoose
+bcrypt
+josonwebtoken
+
+e os @types de cada um (os types instalar com -D)
+
+
+npm i -D @types/bcrypt @types/cors @types/express @types/jsonwebtoken @types/mongoose @typescript-eslint/eslint-plugin
+npm i -D @typescript-eslint/parser eslint eslint-config-prettier eslint-config-standard eslint-plugin-import
+npm i -D eslint-plugin-node eslint-plugin-prettier eslint-plugin-promise eslint-plugin-standard
+npm i -D nodemon prettier sucrase typescript
+
+npm i bcrypt cors express jsonwebtoken mongoose
